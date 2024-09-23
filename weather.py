@@ -1,7 +1,7 @@
 import requests
 
 # api key
-api_key = "24418a6f48cb591c1ed31b5887bfc4c6"
+api_key = "*******"
 
 # api address
 url = f"http://api.openweathermap.org/data/2.5/weather?q=Tehran,IR&appid={api_key}&units=metric"
